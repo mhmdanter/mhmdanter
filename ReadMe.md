@@ -8,8 +8,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=mhmdanter&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhmdanter&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdanter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🏆 Achievements
+![](https://github-profile-trophy.vercel.app/?username=mhmdanter&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mhmdanter&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlehanter@gmail.com)
+
+### 📅 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=mhmdanter&theme=react-dark)
