@@ -2,8 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Enthusiast;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
 </div>
 
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hide-border=true" alt="Jokes Card" />
+</div>
+
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote Card" />
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
 # 💻 Tech Stack:
