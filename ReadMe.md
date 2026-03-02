@@ -18,6 +18,3 @@
 [![](https://visitcount.itsvg.in/api?id=mhmdanter&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 📅 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=mhmdanter&theme=react-dark)
